@@ -1,2 +1,4 @@
 # Artificial-Intelligence-Markov-Decision-Process
-Receives a board with a desired destination and possible danger zones. Uses Markov Decision Process to find the optimal direction to go at each location (going in a certain direction doesn't ensure that it will go that way). 
+Drone Flight planning using Markov Decision Process
+
+The algorithm must find the optimal decisions to make at each location to get the drone there fastest but with the least likely chance of crashing. Going in a certain direction doesn't ensure that the drone will go that way.
